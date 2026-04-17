@@ -1,13 +1,6 @@
 # 😀 Bernardo Rufato
 
-<p align="left">
-  <a href="https://github.com/BerRufz?tab=followers">
-    <img
-      alt="Seguidores"
-      title="Me siga no GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/BerRufz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
+--- ### ⭐ Estrelas
   <a href="https://github.com/BerRufz?tab=repositories&sort=stargazers">
     <img
       alt="Total de estrelas"
@@ -17,7 +10,7 @@
   </a>
 </p>
 
---- ### 📱 Me siga
+--- ### 📱 Redes Sociais
 <p align="left">
   <a href="https://www.linkedin.com/in/bernardo-rufato/">
     <img

@@ -1,4 +1,4 @@
-# 😁 Bernardo Rufato
+# 😀 Bernardo Rufato
 
 <p align="left">
   <a href="https://github.com/BerRufz?tab=followers">

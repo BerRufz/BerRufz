@@ -1,6 +1,7 @@
 # 😀 Bernardo Rufato
 
 --- ### ⭐ Estrelas
+<p align="left">
   <a href="https://github.com/BerRufz?tab=repositories&sort=stargazers">
     <img
       alt="Total de estrelas"

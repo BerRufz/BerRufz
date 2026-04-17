@@ -67,7 +67,7 @@
   alt="GitHub Stats"
   height="200"
   style="padding-right: 10px"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BerRufz&show_icons=true&theme=tokyonight"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BerRufz&show_icons=true&theme=tokyonight&cache_seconds=86400"
 />
 
   <img

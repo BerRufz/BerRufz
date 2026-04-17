@@ -1,6 +1,6 @@
 # 😀 Bernardo Rufato
 
---- ### ⭐ Estrelas
+### ⭐ Estrelas
 <p align="left">
   <a href="https://github.com/BerRufz?tab=repositories&sort=stargazers">
     <img
@@ -11,7 +11,7 @@
   </a>
 </p>
 
---- ### 📱 Redes Sociais
+### 📱 Redes Sociais
 <p align="left">
   <a href="https://www.linkedin.com/in/bernardo-rufato/">
     <img
@@ -29,7 +29,7 @@
   </a>
 </p>
 
---- ### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img
   align="left"
